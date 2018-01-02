@@ -1,0 +1,5 @@
+2017-12-21 Thursday 12:01:32  crawel_kjl_main.py : INFO  get url access!
+2017-12-21 Thursday 12:02:02  crawel_kjl_main.py : INFO  get url access!
+2017-12-21 Thursday 12:02:08  crawel_kjl_main.py : ERROR  function push_sql insert http://www.kejilie.com/tmtpost/article/ZZBJRf.htmlerror!
+2017-12-21 Thursday 12:02:20  crawel_kjl_main.py : ERROR  function push_sql insert http://www.kejilie.com/yixieshi/article/yYry2y.htmlerror!
+2017-12-21 Thursday 12:03:05  crawel_kjl_main.py : ERROR  function push_sql insert http://www.kejilie.com/36kr/article/ArIvmq.htmlerror!
