@@ -2,9 +2,9 @@ from SQL.connect_sqlserver import  MYSQL
 
 class SaveData:
     def __init__(self):
-        host = r'192.168.3.152:4000'
+        host = r'127.0.0.1'
         user = 'sa'
-        passd = '123.abc'
+        passd = '******'
         database = 'BaseData2017'
         self.sqlserver = MYSQL(host, user, passd, database)
 

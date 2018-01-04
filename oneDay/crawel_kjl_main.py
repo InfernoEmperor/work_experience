@@ -12,9 +12,9 @@ logging.basicConfig(level=logging.INFO, format='%(asctime)s  %(filename)s : %(le
                         filemode='a')
 old_url = set()
 url = 'http://www.kejilie.com/'
-host = r'192.168.3.152:4000'
+host = r'127.0.0.1'
 user = 'sa'
-passd = '123.abc'
+passd = '*****'
 database = 'BaseData2017'
 sqlserver = MYSQL(host,user,passd,database)
 
